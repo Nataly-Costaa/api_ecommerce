@@ -1,0 +1,15 @@
+{
+  "name": "api_ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nataly",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
